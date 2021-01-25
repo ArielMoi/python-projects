@@ -1,4 +1,4 @@
-final projecy for SheCodes course.
+final project for SheCodes course.
 
-an Employee organizer system written in python, while using txt files.
+an Employee organizer system written in python (using OOP), while using txt files.
 (Timetable, arrival schedule, employee details)
